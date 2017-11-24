@@ -14,9 +14,7 @@ import rx.Observable;
 import rx.functions.Action1;
 import rx.schedulers.Schedulers;
 
-/**
- * Created by Huynh Binh PC on 6/24/2016.
- */
+
 public class SQLBriteManager
 {
     SqlMyHelper sqlMyHelper = null;
