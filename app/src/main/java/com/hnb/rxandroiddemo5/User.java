@@ -4,9 +4,7 @@ import io.realm.RealmObject;
 import io.realm.annotations.Ignore;
 import io.realm.annotations.PrimaryKey;
 
-/**
- * Created by Huynh Binh PC on 8/25/2016.
- */
+
 public class User extends RealmObject
 {
     @PrimaryKey
