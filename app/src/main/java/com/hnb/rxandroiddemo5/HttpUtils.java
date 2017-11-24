@@ -15,9 +15,7 @@ import java.util.Map;
 
 import javax.net.ssl.HttpsURLConnection;
 
-/**
- * Created by Huynh Binh PC on 6/17/2016.
- */
+
 public class HttpUtils
 {
     public static final String EXCEPTION = "EXCEPTION:- ";
