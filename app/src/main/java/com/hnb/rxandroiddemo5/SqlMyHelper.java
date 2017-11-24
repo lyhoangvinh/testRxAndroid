@@ -5,9 +5,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.provider.BaseColumns;
 
-/**
- * Created by Huynh Binh PC on 6/24/2016.
- */
+
 public class SqlMyHelper extends SQLiteOpenHelper
 {
 
