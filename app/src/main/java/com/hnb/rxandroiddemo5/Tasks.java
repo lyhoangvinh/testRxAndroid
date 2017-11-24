@@ -1,8 +1,6 @@
 package com.hnb.rxandroiddemo5;
 
-/**
- * Created by Huynh Binh PC on 6/9/2016.
- */
+
 public class Tasks
 {
     public interface DataCallback
