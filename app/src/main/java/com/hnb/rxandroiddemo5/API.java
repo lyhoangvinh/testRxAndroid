@@ -31,9 +31,7 @@ import javax.net.ssl.HttpsURLConnection;
 import rx.Observable;
 import rx.Subscriber;
 
-/**
- * Created by Huynh Binh PC on 6/9/2016.
- */
+
 public class API
 {
 
