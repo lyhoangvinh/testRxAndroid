@@ -2,9 +2,7 @@ package com.hnb.rxandroiddemo5;
 
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by Huynh Binh PC on 6/17/2016.
- */
+
 public class GithubUser
 {
     @SerializedName("login")
