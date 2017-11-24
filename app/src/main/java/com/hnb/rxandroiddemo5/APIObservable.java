@@ -25,9 +25,7 @@ import rx.functions.Func0;
 import rx.functions.Func1;
 import rx.internal.util.RxJavaPluginUtils;
 
-/**
- * Created by Huynh Binh PC on 6/14/2016.
- */
+
 public class APIObservable
 {
 
