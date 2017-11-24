@@ -8,9 +8,7 @@ import com.android.volley.toolbox.Volley;
 
 import io.realm.RealmConfiguration;
 
-/**
- * Created by Huynh Binh PC on 6/9/2016.
- */
+
 public class MyApplication extends Application
 {
     public static RequestQueue requestQueue;
