@@ -14,9 +14,7 @@ import java.util.concurrent.TimeUnit;
 import rx.Observable;
 import rx.functions.Func0;
 
-/**
- * Created by Huynh Binh PC on 6/23/2016.
- */
+
 public class RxMainActivity extends RxAppCompatActivity
 {
 
